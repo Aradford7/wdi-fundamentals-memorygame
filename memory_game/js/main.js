@@ -19,6 +19,6 @@ console.log("User flipped" + cardTwo);
 
 if (cardsInPlay.length ===2){
 	
-}
+ }
 
 
